@@ -499,4 +499,11 @@ ul li {
 }
 
 
+.display-n {
+	display: none;
+}
+.chapitre {
+	display: flex;
+	flex-flow: wrap row;
 
+}
